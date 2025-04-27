@@ -1,4 +1,4 @@
-# Library-Management-System-Project
+# Library Management System Project
 
 Receiving the topic, the group was eager to work with databases as well as develop an application on Oracle Apex to the last detail that stimulated the actual library format we have always been accustomed to.
 
